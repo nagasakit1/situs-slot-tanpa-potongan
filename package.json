@@ -1,0 +1,27 @@
+{
+  "name": "situs-slot-tanpa-potongan",
+  "theme": "ui",
+  "version": "1.0.7",
+  "description": "PULSA777 ialah tempat main & daftar situs slot online gacor hari ini mudah menang. Website agen slot pragmatic Indonesia nikmati bandar judi slot olympus deposit pulsa tanpa potongan.",
+  "keywords": [
+    "pulsa777",
+    "slot Online",
+    "slot88",
+    "situs dana via pulsa 5000",
+    "situs slot tanpa potongan",
+    "slot gacor hari ini",
+    "slot Online deposit dana Termurah",
+    "slot Online deposit pulsa Tanpa potongan",
+    "slot deposit Linkaja Terbaik",
+    "slot deposit gopay Terpercaya",
+    "link slot Online",
+    "link slot Gacor Terpercaya",
+    "slot Gacor Hari Ini",
+    "slot Online Via Dana"
+  ],
+  "repository": "https://github.com/nagasakit1/situs-slot-tanpa-potongan.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
